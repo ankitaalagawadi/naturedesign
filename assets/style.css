@@ -12,7 +12,7 @@
 /* navigationbar */
 /* header section */
 .bgimg {
-    background: linear-gradient(#0000ff99, #0080009e), url("/images/bgim1.jpg") fixed no-repeat center center;
+    background: linear-gradient(#0000ff99, #0080009e), url("../images/bgim1.jpg") fixed no-repeat center center;
     background-size: cover;
     height: 80vh;
     width: 100%;

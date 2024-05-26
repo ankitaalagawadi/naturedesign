@@ -1,7 +1,7 @@
 @media screen and (min-width:0px) and (max-width:400px) {
     .bgimg
 {
-    background:linear-gradient(#0000ff99, #0080009e), url("/images/bgim1.jpg") no-repeat center center;
+    background:linear-gradient(#0000ff99, #0080009e), url("../images/bgim1.jpg") no-repeat center center;
     background-size: cover;
     height: 40vh;
     width: 100%;

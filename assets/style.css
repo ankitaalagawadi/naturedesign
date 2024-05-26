@@ -27,7 +27,7 @@
 
 }
 .imgattach {
-    background: linear-gradient(#2d2c2c91, #000000c4), fixed url("/images/him.jpg") no-repeat top center;
+    background: linear-gradient(#2d2c2c91, #000000c4), fixed url("../images/him.jpg") no-repeat top center;
     background-size: cover;
     height: 50vh;
     width: 100%;
@@ -35,7 +35,7 @@
 }
 
 .fnt-css {
-    background-image: linear-gradient(#0c000091, #ffffffb3), url("/images/him.jpg");
+    background-image: linear-gradient(#0c000091, #ffffffb3), url("../images/him.jpg");
 
     background-repeat: repeat;
     -webkit-background-clip: text;
